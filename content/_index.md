@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+Materials Modeling @ NCL
       image:
         filename: welcome.jpg
       text: |
